@@ -1,0 +1,6 @@
+C:\Users\Acer\source\repos\bub\bub\bin\Debug\bub.exe.config
+C:\Users\Acer\source\repos\bub\bub\bin\Debug\bub.exe
+C:\Users\Acer\source\repos\bub\bub\bin\Debug\bub.pdb
+C:\Users\Acer\source\repos\bub\bub\obj\Debug\bub.exe
+C:\Users\Acer\source\repos\bub\bub\obj\Debug\bub.pdb
+C:\Users\Acer\source\repos\bub\bub\obj\Debug\bub.csprojAssemblyReference.cache
